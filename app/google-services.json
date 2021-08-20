@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "665104142780",
+    "project_id": "crudfirebase-948f8",
+    "storage_bucket": "crudfirebase-948f8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:665104142780:android:f719da658f90e974041bb9",
+        "android_client_info": {
+          "package_name": "etec.com.ewen.matheus.crudfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "665104142780-f1r0iffgvblgq46t6on4obeicob6s7nd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "etec.com.ewen.matheus.crudfirebase",
+            "certificate_hash": "543bedf289a069fb350ecab3c7d8ca0e91490be8"
+          }
+        },
+        {
+          "client_id": "665104142780-3phc80215vqtcsn459pqclirjg3osfs7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDwZ6I5VMlaKhMMPeL4OWpXHf5caxXuLmE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "665104142780-3phc80215vqtcsn459pqclirjg3osfs7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
